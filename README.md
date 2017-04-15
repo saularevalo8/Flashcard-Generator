@@ -90,9 +90,9 @@ Your property and/or method names can be different, but these examples describe 
 
 ### Technologies Used
 
-*JavaScript
-*Node.js
-*Inquirer.js
-*fs.js
-*JSON
+* JavaScript
+* Node.js
+* Inquirer.js
+* FS.js
+* JSON
 
